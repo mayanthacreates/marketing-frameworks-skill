@@ -73,7 +73,7 @@ cp -r skills/marketing-frameworks ~/.gemini/skills/
 cp -r skills/marketing-frameworks .gemini/skills/
 ```
 
-Restart the tool (or run `/skills reload` in Gemini CLI). The skill triggers on its own when a task matches, or you can ask for it by name.
+Restart the tool. Check it loaded with `/skills` in Claude Code or Codex, or `gemini skills list` in Gemini CLI. Gemini skips project-level skills in folders it doesn't trust, so use the personal path or trust the folder. The skill triggers on its own when a task matches, or you can ask for it by name.
 
 ## Example prompts
 
@@ -85,7 +85,7 @@ Restart the tool (or run `/skills reload` in Gemini CLI). The skill triggers on 
 
 ## Credits
 
-Topic list inspired by a short-form "how well do you know marketing? (niche edition)" video by @gigi.yaps. All explanations, examples and evidence notes were written fresh from primary sources (Chaffey, Huber et al., Kotler, Covey, Rosenthal & Jacobson, McCarthy, Zeigarnik, Ghibellini & Meier, Keller, Ajzen).
+Topic list inspired by a short-form "how well do you know marketing? (niche edition)" video by @gigi.yaps. The explanations, examples and evidence notes are original writing. The sources behind each framework are named in its reference file.
 
 ## License
 
