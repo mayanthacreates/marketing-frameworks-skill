@@ -133,6 +133,10 @@ Topic list inspired by a short-form "how well do you know marketing? (niche edit
 
 Issues and pull requests are welcome: new frameworks, better worked examples, corrections to platform facts (please link the official doc). If the skill helped you, a star helps other marketers find it.
 
+## Privacy
+
+The skill collects no data: it is Markdown files only, with no code or network calls. See [PRIVACY.md](PRIVACY.md).
+
 ## License
 
 MIT

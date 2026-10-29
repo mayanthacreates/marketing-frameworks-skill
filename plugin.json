@@ -3,11 +3,24 @@
   "name": "marketing-frameworks",
   "version": "1.0.0",
   "description": "Marketing frameworks, paid ads metrics and playbooks for websites, marketing plans, social media and paid ads.",
-  "author": { "name": "mayanthacreates", "url": "https://github.com/mayanthacreates" },
+  "author": {
+    "name": "mayanthacreates",
+    "url": "https://github.com/mayanthacreates"
+  },
   "homepage": "https://github.com/mayanthacreates/marketing-frameworks-skill",
   "repository": "https://github.com/mayanthacreates/marketing-frameworks-skill",
   "license": "MIT",
-  "keywords": ["marketing", "seo", "cro", "social-media", "paid-ads", "meta-ads", "roas", "marketing-plan", "agent-skills"],
+  "keywords": [
+    "marketing",
+    "seo",
+    "cro",
+    "social-media",
+    "paid-ads",
+    "meta-ads",
+    "roas",
+    "marketing-plan",
+    "agent-skills"
+  ],
   "extensions": {
     "com.openai": {
       "interface": {
@@ -20,7 +33,8 @@
         "defaultPrompt": "Audit my landing page and pricing page for conversion and give me a prioritised fix list.",
         "brandColor": "#C2410C",
         "composerIcon": "./assets/icon.png",
-        "logo": "./assets/icon.png"
+        "logo": "./assets/icon.png",
+        "privacyPolicyURL": "https://github.com/mayanthacreates/marketing-frameworks-skill/blob/main/PRIVACY.md"
       }
     }
   }
