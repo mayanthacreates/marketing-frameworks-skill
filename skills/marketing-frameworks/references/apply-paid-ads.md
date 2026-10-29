@@ -9,7 +9,7 @@ Why this order: ads multiply whatever is already there. A weak offer, a leaky pa
 1. **Set the economics before the campaign.** Work out contribution margin, break-even ROAS (1 / margin), the CAC you can afford, and LTV if customers repeat. Ads that look fine at ROAS 3.0 can lose money at a 30% margin. Mark any missing number "to measure" and never borrow an "industry average" ([metrics](paid-media-metrics.md), Return).
 2. **Name the one behavior and the audience (STP, TPB).** Pick one segment by need, write the positioning sentence, and name the exact action the ad must cause (book a quote, buy, start a trial). If leads exist but do not book, diagnose which TPB factor blocks it: attitude (is it worth it?), norms (do people like me trust this?) or control (is booking easy?). Use 5-10 short chats, call notes or form comments; with no data, state the assumption ([STP](stp-model.md), [TPB](theory-of-planned-behavior.md)).
 3. **Map KPIs to RACE stages.** Reach: CPM, reach, frequency. Act: CTR, CPC, landing page rate. Convert: lead, book, show, close rates and CAC. Engage: repeat rate and LTV. One KPI per stage, each against the account's own baseline ([RACE](race-framework.md)).
-4. **Fix tracking first.** Install the pixel and the server-side Conversions API with a shared `event_id` per event. Send the deepest useful event (for booked appointments, Meta's `Schedule`), confirm each event with a test conversion in Events Manager, check deduplication and match quality, and fix the attribution window per report. No tracking means a 2-week baseline and qualitative review only ([metrics](paid-media-metrics.md), Measurement).
+4. **Fix tracking first.** Install the pixel and the server-side Conversions API with a shared `event_id` per event. Send the deepest useful event (for booked appointments, Meta's `Schedule`), confirm each event with a test conversion in Events Manager, check deduplication and match quality, and fix the attribution window per report. Google and TikTok mechanics differ (event names, deduplication, windows, offline import); verify each in the ad account. No tracking means a 2-week baseline and qualitative review only ([metrics](paid-media-metrics.md), Measurement).
 5. **Build the offer and landing page.** The page's message must match the ad (STP). If showing tiers, test a decoy as an A/B hypothesis, with honest options ([decoy](decoy-effect.md), [apply-websites.md](apply-websites.md)). Add reminders, confirmation page and proof for the back end so booked people show up and close ([metrics](paid-media-metrics.md), Funnel and sales).
 6. **Structure the campaign.** Separate prospecting (cold) from retargeting (warm) and from existing customers: they have different frequency, creative and cost expectations. Optimise for the deepest event that has enough volume; start shallower and move down as volume allows. Keep one attribution setting across ad sets you will compare.
 7. **Plan the creative.** Brief concepts, not variants: problem, outcome, proof, objection, offer. Tag every ad with its concept and aim for several distinct concepts at once (creative diversity). Rotate fresh concepts before fatigue shows ([metrics](paid-media-metrics.md), Creative and delivery).
@@ -74,8 +74,9 @@ Business: "Spotless", a home-cleaning service with 4 cleaners. Goal: more booked
 
 ```
 # Campaign plan: Spotless, 4 weeks
-Goal and behavior: book a quote call; 40 booked calls per week by week 4
-Economics: first clean 120, contribution margin 40% (48 per clean),
+Goal and behavior: book a quote call; 60 booked calls per week by week 4 (week 2 baseline: 40)
+Economics: sales cost 400 per week (call handler time and tools); ROAS uses ad spend only, CAC includes sales cost.
+  First clean 120, contribution margin 40% (48 per clean),
   break-even ROAS on a first clean = 1 / 0.40 = 2.5.
   Repeat: average 6 cleans in 12 months, 12-month LTV = 6 x 48 = 288.
   Affordable CAC if we want LTV:CAC of at least 3 (a common rule of thumb, not a law) = 96.
@@ -94,7 +95,7 @@ Structure: prospecting 70% (broad local audience, optimise for Schedule once eno
 Creative concepts: 1 "same cleaner every visit" (proof: cleaner profiles)
   2 "fixed price, no surprises" (proof: price card) 3 "vetted and insured" (proof: checks)
   4 "weekend back" (outcome). 3 ads per concept, 12 ads total, diversity = 4 / 12 = 0.33.
-Budget and test reserve: 1,400 per week, 10% reserve for new concepts.
+Budget and test reserve: 1,400 per week ad spend plus 400 per week sales cost, 10% of ad spend reserved for new concepts.
 Kill and scale rules: pause an ad when CAC is worse than affordable CAC for two review
   cycles; raise budget in small steps only if CAC holds for two cycles.
 ```
@@ -110,7 +111,7 @@ Funnel in week 2, from the weekly sheet (the first full week with tracking confi
 | Booked calls | 40 | 50% of leads, cost per booked call = 35.00 |
 | Calls held | 30 | show rate 75% |
 | New customers | 12 | close rate 40% |
-| CAC | 150 | (1,400 + 400 sales cost) / 12 |
+| CAC | 150 | (1,400 ad spend + 400 sales cost) / 12; ad-only cost per customer would be 116.67 |
 | First-clean ROAS | 1.03 | 12 x 120 = 1,440 / 1,400; break-even is 2.5 |
 | LTV:CAC | 1.92 | 288 / 150 |
 
@@ -120,15 +121,15 @@ Reading it:
 - Stage multiplication: 1,000 x 8% x 50% x 75% x 40% = 12. The weakest stage by headroom is book rate (50%). TPB suggests control and norms, so the experiment is a reminder text, a booking link in the confirmation, and the cleaner profiles as proof on the confirmation page (back end). A 10% relative lift in book rate gives about 1.2 more customers for the same spend.
 - Retargeting: form starters get a capped "finish your quote" ad for 7 days (urge to finish). Frequency capped at a level chosen from the account's own data, and reviewed after two weeks.
 - Fatigue watch: concept 2 shows (illustrative) frequency 1.4 to 2.6 across recent reviews, CPR 20 to 31, results 50 to 32, all moving together on one ad. Rotate in a new price-card concept; do not just change its colour.
-- Offer test (near-decoy, honest options):
+- Offer test (pure decoy, honest options):
 
 | Option | Price | Included |
 |---|---|---|
 | Standard | 120 | 2 hours, whole home |
-| Standard Plus (decoy) | 175 | 2 hours, whole home, oven |
+| Standard Plus (decoy) | 180 | 2 hours, whole home, oven |
 | Deep clean (target) | 180 | 4 hours, whole home, oven, fridge, windows |
 
-  Standard Plus costs almost the same as Deep clean and offers much less, so Deep should look like the obvious upgrade. With real services the effect is unreliable, so run it as an A/B test and keep it only if revenue per visitor rises ([decoy](decoy-effect.md)).
+  Standard Plus costs the same as Deep clean and is worse on every attribute (fewer hours, no fridge or windows), yet beats Standard on one (the oven), so Deep should look like the obvious upgrade. With real services the effect is unreliable, so run it as an A/B test and keep it only if revenue per visitor rises ([decoy](decoy-effect.md)).
 - Measurement check: platform ROAS for the retargeting ad set looks excellent, but many of those people were already finishing a quote. Plan a 2-week holdout (no retargeting for a randomised share) to measure the incremental part before moving budget there.
 - Eisenhower backlog: Do: confirm the Schedule event fires only after a booking. Schedule: new concepts, holdout test, confirmation page. Delegate: ad resizing. Drop: more colour variants.
 
