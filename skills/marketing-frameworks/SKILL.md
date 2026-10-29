@@ -1,11 +1,23 @@
 ---
 name: marketing-frameworks
-description: Apply 10 classic marketing, psychology and prioritisation frameworks to real work - the RACE framework (Plan, Reach, Act, Convert, Engage), the decoy effect, the STP model (segmentation, targeting, positioning), the Eisenhower Matrix, the rule of 7, the Pygmalion effect, the 4 Ps of marketing (marketing mix), the Zeigarnik effect, Keller's brand resonance pyramid (CBBE) and the theory of planned behavior. Use this skill whenever the user asks to explain, compare, quiz on or apply any of these, and also when they are building a marketing plan, campaign, funnel, pricing page, positioning statement, brand strategy, onboarding or retention flow, behavior-change message, or prioritising a marketing or content backlog, even if they never name a framework.
+description: Apply 10 classic marketing, psychology and prioritisation frameworks (RACE, decoy effect, STP, Eisenhower Matrix, rule of 7, Pygmalion effect, 4 Ps, Zeigarnik effect, Keller's brand resonance pyramid, theory of planned behavior) to websites, marketing plans and social media. Use whenever the user is building, writing or auditing a website, landing page, homepage, pricing page, signup or onboarding flow, or CRO review; a marketing plan, strategy, go-to-market or launch plan; or social media work such as a content calendar, content pillars, hooks, captions, ads, community or short-form video for Instagram, TikTok, LinkedIn or similar. Also use to explain, compare, quiz on or apply any framework, and for positioning, brand strategy, funnels or backlog prioritisation, even if no framework is named.
 ---
 
 # Marketing Frameworks
 
 Ten frameworks that come up constantly in marketing work. Most people can name them; fewer can apply them well or know how strong the evidence behind each one is. This skill does both.
+
+## Main use: websites, marketing plans, social media
+
+Most requests are one of these three jobs. Open the matching playbook first. Each one sequences the frameworks for that channel, gives a framework-to-tactics-to-measures table, an output template, a worked example and common mistakes, and links to the per-framework files for depth.
+
+| Job | Open first |
+|---|---|
+| Build or audit a website, landing page, pricing page, product page, signup or onboarding flow, CRO review | [apply-websites.md](references/apply-websites.md) |
+| Write or review a full marketing plan, strategy or launch plan | [apply-marketing-plans.md](references/apply-marketing-plans.md) |
+| Social media strategy, content pillars, calendar, hooks, captions, ads, community, short-form video | [apply-social-media.md](references/apply-social-media.md) |
+
+Then read only the per-framework files the playbook points to. If the job is something else (explain, quiz, a single framework question), use the routing table below.
 
 ## How to use this skill
 

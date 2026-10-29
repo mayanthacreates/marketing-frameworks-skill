@@ -19,12 +19,21 @@ Works with **Claude Code**, **OpenAI Codex** and **Gemini CLI**. All three read 
 | Brand resonance pyramid (Keller CBBE) | Brand strategy and audits | Widely used model |
 | Theory of planned behavior | Behavior-change messaging | Strong |
 
+**Main use: three playbooks.** The skill is built around applying the frameworks to websites, marketing plans and social media. Each playbook sequences the frameworks for that job, with a framework-to-tactics-to-measures table, a fill-in output template, a worked example with a fictional business and common mistakes:
+
+- `apply-websites.md` - landing pages, homepages, pricing pages, onboarding and signup flows, CRO audits
+- `apply-marketing-plans.md` - a full marketing plan end to end
+- `apply-social-media.md` - strategy, pillars, calendars, hooks, captions, ads, community, short-form video
+
 Each framework has its own reference file with a definition, step-by-step application, a worked example, common mistakes and an honest evidence note. `SKILL.md` routes the agent to the one or two frameworks a task actually needs.
 
 ```
 skills/marketing-frameworks/
 ├── SKILL.md
 └── references/
+    ├── apply-websites.md
+    ├── apply-marketing-plans.md
+    ├── apply-social-media.md
     ├── race-framework.md
     ├── decoy-effect.md
     ├── stp-model.md
@@ -77,6 +86,9 @@ Restart the tool. Check it loaded with `/skills` in Claude Code or Codex, or `ge
 
 ## Example prompts
 
+- "Audit this landing page and pricing page for conversion, and give me a prioritised fix list."
+- "Write a 90-day marketing plan for our small B2B SaaS using STP, the 4 Ps and RACE."
+- "Plan four weeks of Instagram and TikTok content for a yoga studio, with pillars, hooks and a calendar table."
 - "Use the RACE framework to audit our cafe's Instagram-to-order funnel."
 - "Our SaaS has two plans at $19 and $49. Should we add a decoy tier?"
 - "Write an STP and positioning statement for a gym aimed at busy professionals."
