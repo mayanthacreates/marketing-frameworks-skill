@@ -9,7 +9,7 @@
 
 ## What it gets wrong
 
-- **There is nothing special about 7.** The right frequency depends on price, category, how memorable the creative is, and how warm the audience is. Herbert Krugman (1972) argued three exposures could be enough; other studies find different numbers for different contexts.
+- **There is nothing special about 7.** The right frequency depends on price, category, how memorable the creative is, and how warm the audience is. Herbert Krugman's "Why Three Exposures May Be Enough" (1972, *Journal of Advertising Research*) argued the work is done by three psychological stages (curiosity, recognition, reminder), not a magic count; other studies find different numbers for different contexts.
 - Repetition has diminishing returns, and too much causes ad fatigue and annoyance (wear-out).
 
 ## How to apply it (the useful version)

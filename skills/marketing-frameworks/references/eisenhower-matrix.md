@@ -1,6 +1,6 @@
 # Eisenhower Matrix (urgent vs important)
 
-**What it is:** A 2x2 grid for prioritising tasks by urgency and importance. Named after Dwight D. Eisenhower, from a 1954 speech where he quoted a college president: "I have two kinds of problems, the urgent and the important. The urgent are not important, and the important are never urgent." Stephen Covey turned it into the four-quadrant tool in *The 7 Habits of Highly Effective People* (1989).
+**What it is:** A 2x2 grid for prioritising tasks by urgency and importance. Named after Dwight D. Eisenhower, from a 1954 speech at Northwestern University where he quoted a former college president: "I have two kinds of problems, the urgent and the important. The urgent are not important, and the important are never urgent." Stephen Covey turned it into the four-quadrant tool in *The 7 Habits of Highly Effective People* (1989).
 
 ## The quadrants
 

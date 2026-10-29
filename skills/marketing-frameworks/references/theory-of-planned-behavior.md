@@ -31,4 +31,4 @@ Getting gym members to try the new 6am class: attitude is fine ("good for me"), 
 
 ## Evidence
 
-Strong. One of the most tested models in social psychology. Armitage & Conner's 2001 meta-analysis (185 studies) found TPB explained about 39% of the variance in intention and 27% in behavior. It predicts intention much better than actual behavior, which is why the intention-behavior gap tactics in step 4 matter.
+Good for intention, modest for behavior. One of the most tested models in social psychology. Armitage & Conner's 2001 meta-analysis (*British Journal of Social Psychology*, 185 studies) found TPB explained about 39% of the variance in intention and 27% in behavior. Webb & Sheeran (2006) found that changing intention by a medium-to-large amount changes behavior only by a small-to-medium amount, and Sniehotta et al. (2014) argued the theory should be retired. It is still a very practical diagnostic checklist, which is how this skill uses it. The intention-behavior gap is why the tactics in step 4 matter.

@@ -13,9 +13,9 @@ First shown by Huber, Payne & Puto (1982), *Journal of Consumer Research*. Popul
 
 ## Worked example
 
-Popcorn: small $5, large $10. Many buy small. Add medium at $9: now large at $10 feels like the obvious upgrade from medium, and large sales rise.
+Popcorn: small $5, large $10. Many buy small. Add a medium at $9.50: large is only 50 cents more for much more popcorn, so it now looks like the obvious pick. Strictly this is a *near*-decoy (medium is slightly cheaper, so large doesn't beat it on every dimension), which is how most real menus use the effect. For a pure decoy, price the medium at $10 too.
 
-SaaS: Basic $19 (3 users), Pro $49 (unlimited users, integrations). Add Plus at $45 (10 users, no integrations). Pro now looks like $4 more for a lot more.
+SaaS: Basic $19 (3 users), Pro $49 (unlimited users, integrations). Add Plus at $49 (10 users, no integrations). Plus is worse than Pro on everything at the same price, but not clearly worse than Basic (it has more users), so it is a true decoy. Pro now looks like the smart choice.
 
 ## Common mistakes
 
@@ -25,6 +25,6 @@ SaaS: Basic $19 (3 users), Pro $49 (unlimited users, integrations). Add Plus at 
 
 ## Evidence
 
-Strong and repeated in lab studies with abstract or numeric options. Weaker in the field: Frederick, Lee & Baskin (2014, *Journal of Marketing Research*) found the effect often disappears when options are shown as real, perceptual products rather than tidy attribute tables. Treat it as a hypothesis to A/B test, not a guaranteed lift.
+Strong and repeated in lab studies with abstract or numeric options. Weaker outside tidy numeric setups: Frederick, Lee & Baskin (2014, *Journal of Marketing Research*) found the effect often vanished or reversed when options were shown as real or perceptual products rather than attribute tables. Field evidence is thin either way. Treat it as a hypothesis to A/B test, not a guaranteed lift.
 
 Ethics note: it is a nudge, not a trick, as long as every option is real and honestly described.

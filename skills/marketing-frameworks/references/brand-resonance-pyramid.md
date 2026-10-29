@@ -1,6 +1,6 @@
 # Brand Resonance Pyramid (Keller's CBBE model)
 
-**What it is:** Kevin Lane Keller's Customer-Based Brand Equity model (introduced in the 1990s, set out as the pyramid in his 2001 Marketing Science Institute paper "Building Customer-Based Brand Equity"). Strong brands are built by moving customers up four stages, from "who are you?" to "I'm loyal and I'd defend you".
+**What it is:** Kevin Lane Keller's Customer-Based Brand Equity model (introduced in Keller, 1993, *Journal of Marketing*, and set out as the pyramid in his 2001 Marketing Science Institute paper "Building Customer-Based Brand Equity", MSI Working Paper 01-107). Strong brands are built by moving customers up four stages, from "who are you?" to "I'm loyal and I'd defend you".
 
 ## The pyramid (bottom to top)
 
@@ -8,7 +8,7 @@
 |---|---|---|---|
 | 1. Identity | Who are you? | **Salience** - awareness, recall in buying situations | Deep, broad awareness |
 | 2. Meaning | What are you? | **Performance** (functional: reliability, features, price, service) and **Imagery** (user profile, personality, values, history) | Points of difference and parity |
-| 3. Response | What do I think and feel about you? | **Judgments** (quality, credibility, consideration, superiority) and **Feelings** (warmth, fun, excitement, security, social approval, self-respect) | Positive, accessible reactions |
+| 3. Response | What about you? (What do I think and feel?) | **Judgments** (quality, credibility, consideration, superiority) and **Feelings** (warmth, fun, excitement, security, social approval, self-respect) | Positive, accessible reactions |
 | 4. Relationships | What about you and me? | **Resonance** - behavioral loyalty, attitudinal attachment, sense of community, active engagement | Intense, active loyalty |
 
 The left side (performance, judgments) is the rational route. The right side (imagery, feelings) is the emotional route. The strongest brands build both.

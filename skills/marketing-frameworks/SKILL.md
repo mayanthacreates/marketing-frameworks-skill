@@ -40,8 +40,8 @@ Two of these, the Eisenhower Matrix and the Pygmalion effect, are not marketing 
 | STP | Strategy model | Foundational, taught everywhere; a process, not a claim to test |
 | 4 Ps | Strategy model | Foundational; critiqued as seller-centric (see 4 Cs, 7 Ps) |
 | Brand resonance pyramid | Strategy model | Widely used academic model; diagnostic, not predictive |
-| Theory of planned behavior | Psychology theory | Strong - large meta-analyses; predicts intention better than behavior |
-| Decoy effect | Behavioral finding | Strong in the lab, weaker and less reliable in real markets |
+| Theory of planned behavior | Psychology theory | Good for intention, modest for behavior; well tested but contested |
+| Decoy effect | Behavioral finding | Strong with numeric option tables, unreliable with real or visual products |
 | Pygmalion effect | Behavioral finding | Real but small, and the famous original study is disputed |
 | Zeigarnik effect | Behavioral finding | Memory claim failed to replicate (2025 meta-analysis); "urge to finish" holds up |
 | Eisenhower Matrix | Productivity tool | Heuristic - no formal evidence base, very practical |

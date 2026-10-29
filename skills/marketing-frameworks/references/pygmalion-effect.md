@@ -7,7 +7,7 @@ Named after the Greek myth (and Shaw's play). The classic study is Rosenthal & J
 ## Where it shows up in marketing work
 
 - **Managing teams, freelancers, creators and sales reps:** how you brief and talk to people shapes their output.
-- **Agency-client relationships:** clients who expect great work tend to give better briefs and feedback, which produces better work.
+- **Agency-client relationships:** by extension (not directly studied), a client or agency lead who expects great work tends to brief and give feedback in ways that make it more likely.
 - **Customer expectations:** framing customers as capable ("you've got this") helps onboarding and self-serve adoption. (This is a related expectation idea, not the original effect.)
 
 ## How to apply it
@@ -24,4 +24,4 @@ Named after the Greek myth (and Shaw's play). The classic study is Rosenthal & J
 
 ## Evidence
 
-Real but small and contested. The 1968 study was heavily criticised for its methods. Later reviews (for example Jussim & Harber, 2005) conclude teacher expectation effects exist but are generally modest and fade over time. Workplace studies (Eden and others) find positive effects, strongest for new or disadvantaged groups. Present it as a nudge on management style, not a magic lever.
+Real but small and contested. The 1968 study was heavily criticised for its methods. Later reviews (for example Jussim & Harber, 2005, *Personality and Social Psychology Review*) conclude teacher expectation effects exist but are generally small and do not accumulate much over time. In workplaces, Dov Eden's military training studies and McNatt's 2000 meta-analysis (*Journal of Applied Psychology*) found real effects, larger in military settings and for people with low initial expectations. Present it as a nudge on management style, not a magic lever.

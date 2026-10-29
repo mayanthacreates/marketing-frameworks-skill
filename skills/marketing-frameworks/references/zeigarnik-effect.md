@@ -4,8 +4,8 @@
 
 ## Where marketers use it
 
-- **Progress bars and profile completion** ("Your profile is 70% complete").
-- **Onboarding checklists** with some steps already ticked.
+- **Progress bars and profile completion** ("Your profile is 70% complete"). Note: much of the lift here comes from the related goal-gradient and endowed-progress effects (Nunes & Dreze, 2006: a loyalty card with 2 of 12 stamps pre-filled was completed more often than a blank card of 10).
+- **Onboarding checklists** with some steps already ticked (endowed progress again, plus the urge to finish).
 - **Abandoned cart and "finish your booking" reminders.**
 - **Cliffhangers and open loops** in video, email series, carousels ("Part 2 tomorrow").
 - **Curiosity-gap hooks** in short-form content.
