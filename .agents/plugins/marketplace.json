@@ -1,0 +1,12 @@
+{
+  "name": "mayanthacreates-marketing",
+  "interface": { "displayName": "Marketing skills by mayanthacreates" },
+  "plugins": [
+    {
+      "name": "marketing-frameworks",
+      "source": { "source": "local", "path": "./" },
+      "policy": { "installation": "AVAILABLE", "authentication": "ON_INSTALL" },
+      "category": "Productivity"
+    }
+  ]
+}

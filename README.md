@@ -82,6 +82,15 @@ skills/marketing-frameworks/
 
 or in two steps: `/plugin marketplace add mayanthacreates/marketing-frameworks-skill`, then `/plugin install marketing-frameworks@mayanthacreates-marketing`.
 
+**OpenAI Codex** (plugin):
+
+```bash
+codex plugin marketplace add mayanthacreates/marketing-frameworks-skill
+codex plugin add marketing-frameworks@mayanthacreates-marketing
+```
+
+The same plugin package also works in the ChatGPT desktop app's Skills and plugins.
+
 **Any agent** (Claude Code, Codex, Gemini CLI, Cursor and more) with the open-source [skills CLI](https://github.com/vercel-labs/skills):
 
 ```bash

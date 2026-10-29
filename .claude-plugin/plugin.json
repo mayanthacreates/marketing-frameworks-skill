@@ -2,8 +2,25 @@
   "name": "marketing-frameworks",
   "description": "Marketing frameworks, paid ads metrics and playbooks for websites, marketing plans, social media and paid ads.",
   "version": "1.0.0",
-  "author": { "name": "mayanthacreates" },
+  "author": {
+    "name": "mayanthacreates"
+  },
   "repository": "https://github.com/mayanthacreates/marketing-frameworks-skill",
   "license": "MIT",
-  "keywords": ["marketing", "seo", "cro", "social-media", "paid-ads", "meta-ads", "roas", "marketing-plan", "agent-skills"]
+  "keywords": [
+    "marketing",
+    "seo",
+    "cro",
+    "social-media",
+    "paid-ads",
+    "meta-ads",
+    "roas",
+    "marketing-plan",
+    "agent-skills"
+  ],
+  "displayName": "Marketing Frameworks",
+  "homepage": "https://github.com/mayanthacreates/marketing-frameworks-skill",
+  "icon": "./assets/icon.png",
+  "documentationUrl": "https://github.com/mayanthacreates/marketing-frameworks-skill#readme",
+  "supportUrl": "https://github.com/mayanthacreates/marketing-frameworks-skill/issues"
 }

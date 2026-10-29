@@ -1,0 +1,27 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "marketing-frameworks",
+  "version": "1.0.0",
+  "description": "Marketing frameworks, paid ads metrics and playbooks for websites, marketing plans, social media and paid ads.",
+  "author": { "name": "mayanthacreates", "url": "https://github.com/mayanthacreates" },
+  "homepage": "https://github.com/mayanthacreates/marketing-frameworks-skill",
+  "repository": "https://github.com/mayanthacreates/marketing-frameworks-skill",
+  "license": "MIT",
+  "keywords": ["marketing", "seo", "cro", "social-media", "paid-ads", "meta-ads", "roas", "marketing-plan", "agent-skills"],
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "Marketing Frameworks",
+        "shortDescription": "Website audits, marketing plans, social calendars and paid ads using proven frameworks.",
+        "longDescription": "Applies 10 marketing frameworks (STP, 4 Ps, RACE, decoy effect, brand resonance pyramid, theory of planned behavior and more) and 15 paid-media metrics (ROAS, CAC, LTV, attribution, Conversions API) to real work: landing page and pricing page audits, marketing plans, social media calendars and Meta, Google and TikTok campaigns. Every framework carries an honest evidence rating and the skill never invents benchmarks.",
+        "developerName": "mayanthacreates",
+        "category": "Productivity",
+        "websiteURL": "https://github.com/mayanthacreates/marketing-frameworks-skill",
+        "defaultPrompt": "Audit my landing page and pricing page for conversion and give me a prioritised fix list.",
+        "brandColor": "#C2410C",
+        "composerIcon": "./assets/icon.png",
+        "logo": "./assets/icon.png"
+      }
+    }
+  }
+}
