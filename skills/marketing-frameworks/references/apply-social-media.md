@@ -19,7 +19,7 @@ Why this order: social is where Reach happens and where most attention is wasted
 7. **Write hooks and captions.** Hook = curiosity gap or clear benefit. Open loops ("part 2 on Thursday") need a payoff, or trust drops. The caption addresses the weak TPB factor and the call to action makes the next step easy ([Zeigarnik](zeigarnik-effect.md)).
 8. **Build the calendar** with the template below, balancing pillars and stages across weeks.
 9. **Prioritise with Eisenhower.** Evergreen and series content is Schedule; reactive trend posts are Do or Drop ([Eisenhower](eisenhower-matrix.md)).
-10. **Paid social, only if used.** Segment audiences by need, cap frequency, rotate creative, retarget warm audiences. If showing tiers, test any decoy (worse on every attribute than the target, honest options) as an A/B hypothesis ([decoy](decoy-effect.md)).
+10. **Paid social, only if used.** For anything beyond a boosted post, switch to [apply-paid-ads.md](apply-paid-ads.md) (CAC, ROAS, attribution, fatigue; metrics in [paid-media-metrics.md](paid-media-metrics.md)). Segment audiences by need, cap frequency, rotate creative, retarget warm audiences. If showing tiers, test any decoy (worse on every attribute than the target, honest options) as an A/B hypothesis ([decoy](decoy-effect.md)).
 11. **Community and creators.** Set a reply window, for example same business day, and feature customers (norms). For creators and staff, brief with specific, high but believable expectations plus support. Small, contested effect; a briefing standard, not a growth lever ([Pygmalion](pygmalion-effect.md)).
 12. **Review monthly.** Compare to baseline, double down on the pillar and format that moved the behavior, cut the rest. Pause a format if cost or effort per result is worse than baseline for two review cycles.
 
@@ -96,4 +96,4 @@ Weeks 2-4 in one line each:
 
 ## Go deeper
 
-[STP](stp-model.md), [TPB](theory-of-planned-behavior.md), [RACE](race-framework.md), [brand pyramid](brand-resonance-pyramid.md), [rule of 7](rule-of-7.md), [Zeigarnik](zeigarnik-effect.md), [Eisenhower](eisenhower-matrix.md), [decoy](decoy-effect.md), [Pygmalion](pygmalion-effect.md), [4 Ps](4ps-marketing-mix.md). For the landing destination see [apply-websites.md](apply-websites.md); for the overall plan see [apply-marketing-plans.md](apply-marketing-plans.md).
+[STP](stp-model.md), [TPB](theory-of-planned-behavior.md), [RACE](race-framework.md), [brand pyramid](brand-resonance-pyramid.md), [rule of 7](rule-of-7.md), [Zeigarnik](zeigarnik-effect.md), [Eisenhower](eisenhower-matrix.md), [decoy](decoy-effect.md), [Pygmalion](pygmalion-effect.md), [4 Ps](4ps-marketing-mix.md). For the landing destination see [apply-websites.md](apply-websites.md); for the overall plan see [apply-marketing-plans.md](apply-marketing-plans.md); for paid campaigns see [apply-paid-ads.md](apply-paid-ads.md).

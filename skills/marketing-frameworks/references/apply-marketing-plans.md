@@ -16,7 +16,7 @@ Why this order: strategy comes before channels. Who you serve and how you stand 
 8. **Brand pyramid goals.** Audit the four stages (Identity, Meaning, Response, Relationships), find the weakest, set a goal for it. Re-measure per quarter ([brand pyramid](brand-resonance-pyramid.md)).
 9. **Offers and tiers (decoy), only if relevant.** Decoy = same or higher price than the target, worse on every attribute, better than the cheaper option on at least one. Honest options, A/B test ([decoy](decoy-effect.md)).
 10. **Flows (Zeigarnik), only if relevant.** Onboarding steps, loyalty cards, cart or booking reminders: progress and resume prompts ([Zeigarnik](zeigarnik-effect.md)).
-11. **Budget.** Split spend across RACE stages, weighted to the weakest one, plus a test reserve. Tie each line to a KPI.
+11. **Budget.** Split spend across RACE stages, weighted to the weakest one, plus a test reserve. Tie each line to a KPI. If paid media is a line, set break-even ROAS, affordable CAC and the tracking setup first ([apply-paid-ads.md](apply-paid-ads.md), [paid media metrics](paid-media-metrics.md)).
 12. **Roadmap (Eisenhower).** Put every initiative in a quadrant: do first the urgent and important, schedule compounding work, delegate or drop the rest ([Eisenhower](eisenhower-matrix.md)).
 13. **Team and creators (Pygmalion), only if relevant.** If freelancers, creators or staff carry the plan, write briefs with specific, high but believable expectations plus real support. Small, contested effect; a briefing standard, not a growth lever ([Pygmalion](pygmalion-effect.md)).
 14. **Measurement and review cadence.** Stage KPI dashboard, weekly and monthly reviews, and a kill criterion, for example "pause a channel if cost per result is worse than baseline for two review cycles".
@@ -103,4 +103,4 @@ Business: "Corner Crumb", a shop with 12k local followers; orders arrive by dire
 
 ## Go deeper
 
-[RACE](race-framework.md), [STP](stp-model.md), [4 Ps](4ps-marketing-mix.md), [TPB](theory-of-planned-behavior.md), [rule of 7](rule-of-7.md), [brand pyramid](brand-resonance-pyramid.md), [decoy](decoy-effect.md), [Zeigarnik](zeigarnik-effect.md), [Eisenhower](eisenhower-matrix.md), [Pygmalion](pygmalion-effect.md). Channel detail: [apply-websites.md](apply-websites.md), [apply-social-media.md](apply-social-media.md).
+[RACE](race-framework.md), [STP](stp-model.md), [4 Ps](4ps-marketing-mix.md), [TPB](theory-of-planned-behavior.md), [rule of 7](rule-of-7.md), [brand pyramid](brand-resonance-pyramid.md), [decoy](decoy-effect.md), [Zeigarnik](zeigarnik-effect.md), [Eisenhower](eisenhower-matrix.md), [Pygmalion](pygmalion-effect.md). Channel detail: [apply-websites.md](apply-websites.md), [apply-social-media.md](apply-social-media.md), [apply-paid-ads.md](apply-paid-ads.md) (paid KPIs: CAC, ROAS, LTV, in [paid-media-metrics.md](paid-media-metrics.md)).

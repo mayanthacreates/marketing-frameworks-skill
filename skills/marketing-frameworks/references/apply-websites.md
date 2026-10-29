@@ -36,7 +36,7 @@ Frameworks that do not fit here: **Pygmalion** is about managing people, so it d
 | Rule of 7 | Retargeting, email capture, content for return visits | Returning-visitor conversion; assisted conversions |
 | Eisenhower | Ranked audit backlog | Share of Do and Schedule items shipped per month |
 
-Measurement methods: speed = PageSpeed Insights and Core Web Vitals field data. Tracking = complete a test conversion end to end and confirm each event fires.
+Measurement methods: speed = PageSpeed Insights and Core Web Vitals field data. Tracking = complete a test conversion end to end and confirm each event fires. If the page receives paid traffic, also send conversions server-side (Conversions API with a shared `event_id` for deduplication) and the right events, such as a booking event; see [apply-paid-ads.md](apply-paid-ads.md) and [paid-media-metrics.md](paid-media-metrics.md).
 
 ## Output template: page audit
 
@@ -115,4 +115,4 @@ Solo Plus costs the same as Team and is worse on every attribute, and it beats S
 
 ## Go deeper
 
-[STP](stp-model.md), [RACE](race-framework.md), [4 Ps](4ps-marketing-mix.md), [TPB](theory-of-planned-behavior.md), [brand pyramid](brand-resonance-pyramid.md), [decoy](decoy-effect.md), [Zeigarnik](zeigarnik-effect.md), [rule of 7](rule-of-7.md), [Eisenhower](eisenhower-matrix.md). For a whole plan see [apply-marketing-plans.md](apply-marketing-plans.md); for traffic sources see [apply-social-media.md](apply-social-media.md).
+[STP](stp-model.md), [RACE](race-framework.md), [4 Ps](4ps-marketing-mix.md), [TPB](theory-of-planned-behavior.md), [brand pyramid](brand-resonance-pyramid.md), [decoy](decoy-effect.md), [Zeigarnik](zeigarnik-effect.md), [rule of 7](rule-of-7.md), [Eisenhower](eisenhower-matrix.md). For a whole plan see [apply-marketing-plans.md](apply-marketing-plans.md); for traffic sources see [apply-social-media.md](apply-social-media.md) and [apply-paid-ads.md](apply-paid-ads.md).

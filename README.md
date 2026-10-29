@@ -1,6 +1,6 @@
 # marketing-frameworks
 
-An agent skill that teaches AI coding assistants 10 classic marketing, psychology and prioritisation frameworks, and how to *apply* them to real work: plans, pricing pages, positioning, brand audits, onboarding flows and campaign frequency.
+An agent skill that teaches AI coding assistants 10 classic marketing, psychology and prioritisation frameworks, and how to *apply* them to real work: plans, pricing pages, positioning, brand audits, onboarding flows and campaign frequency. It also includes a paid-media section: 15 performance-marketing metrics (ROAS, CAC, LTV, CPM, attribution, Conversions API, MMM and more) and a paid-ads playbook.
 
 Works with **Claude Code**, **OpenAI Codex** and **Gemini CLI**. All three read the same open `SKILL.md` format.
 
@@ -18,12 +18,16 @@ Works with **Claude Code**, **OpenAI Codex** and **Gemini CLI**. All three read 
 | Zeigarnik effect | Progress bars, onboarding, cliffhangers | Memory claim failed to replicate |
 | Brand resonance pyramid (Keller CBBE) | Brand strategy and audits | Widely used model |
 | Theory of planned behavior | Behavior-change messaging | Strong |
+| Paid media metrics (ROAS, CAC, LTV, CPM, attribution, CAPI, MMM and more) | Paid campaigns and ad reporting | Accounting identities plus platform-reported data; platform facts dated and cited |
 
-**Main use: three playbooks.** The skill is built around applying the frameworks to websites, marketing plans and social media. Each playbook sequences the frameworks for that job, with a framework-to-tactics-to-measures table, a fill-in output template, a worked example with a fictional business and common mistakes:
+**Main use: four playbooks.** The skill is built around applying the frameworks to websites, marketing plans, social media and paid ads. Each playbook sequences the frameworks for that job, with a framework-to-tactics-to-measures table, a fill-in output template, a worked example with a fictional business and common mistakes:
 
 - `apply-websites.md` - landing pages, homepages, pricing pages, onboarding and signup flows, CRO audits
 - `apply-marketing-plans.md` - a full marketing plan end to end
-- `apply-social-media.md` - strategy, pillars, calendars, hooks, captions, ads, community, short-form video
+- `apply-social-media.md` - strategy, pillars, calendars, hooks, captions, community, short-form video
+- `apply-paid-ads.md` - Meta, Google and TikTok campaigns: economics, tracking, structure, creative testing, weekly review sheet
+
+**Paid-media metrics.** `paid-media-metrics.md` covers 15 concepts with a definition, formula, fictional worked calculation, how to read it and common mistakes: cost metrics (CPM, CPC, cost per result, CAC), return (ROAS, break-even ROAS, LTV, LTV:CAC), funnel and sales (full funnel, back-end selling, schedule events), measurement (attribution windows, Conversions API, media mix modeling, incrementality tests) and creative and delivery (fatigue, diversity, frequency capping). Platform facts are dated and linked to official docs, and anything unverified is marked "verify in your ad account".
 
 Each framework has its own reference file with a definition, step-by-step application, a worked example, common mistakes and an honest evidence note. `SKILL.md` routes the agent to the one or two frameworks a task actually needs.
 
@@ -34,6 +38,8 @@ skills/marketing-frameworks/
     ├── apply-websites.md
     ├── apply-marketing-plans.md
     ├── apply-social-media.md
+    ├── apply-paid-ads.md
+    ├── paid-media-metrics.md
     ├── race-framework.md
     ├── decoy-effect.md
     ├── stp-model.md
@@ -92,12 +98,14 @@ Restart the tool. Check it loaded with `/skills` in Claude Code or Codex, or `ge
 - "Use the RACE framework to audit our cafe's Instagram-to-order funnel."
 - "Our SaaS has two plans at $19 and $49. Should we add a decoy tier?"
 - "Write an STP and positioning statement for a gym aimed at busy professionals."
+- "Plan a Meta lead-gen campaign for a home-cleaning service: work out break-even ROAS and affordable CAC first, then structure, tracking and a weekly review sheet."
+- "Our Meta ROAS says 4.0 but the bank account disagrees. Walk me through attribution windows, Conversions API dedup and whether we need a lift test."
 - "Quiz me on these 10 marketing frameworks, one question at a time."
 - "Is the rule of 7 actually true?"
 
 ## Credits
 
-Topic list inspired by a short-form "how well do you know marketing? (niche edition)" video by @gigi.yaps. The explanations, examples and evidence notes are original writing. The sources behind each framework are named in its reference file.
+Topic list inspired by a short-form "how well do you know marketing? (niche edition)" video by @gigi.yaps. The paid-media topic list (ROAS, CAC, LTV, CPM, CPR, CPC, back-end selling, attribution windows, MMM, creative fatigue and diversity, frequency, schedule events, full funnel metrics, Conversions API) is inspired by a short-form "Marketing IQ, scale edition" video by @bryson.bowman, which only names the concepts and shows one formula card each. The explanations, examples and evidence notes are original writing. The sources behind each framework are named in its reference file.
 
 ## License
 
