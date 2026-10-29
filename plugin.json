@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "marketing-frameworks",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Marketing frameworks, paid ads metrics and playbooks for websites, marketing plans, social media and paid ads.",
   "author": {
     "name": "mayanthacreates",
