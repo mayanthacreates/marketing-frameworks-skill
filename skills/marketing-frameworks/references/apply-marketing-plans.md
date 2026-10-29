@@ -2,40 +2,39 @@
 
 **When to use this file:** writing a full marketing plan, annual or quarterly strategy, launch plan or go-to-market plan, or reviewing one. Open this first, then the per-framework files it links to.
 
-Why this order: strategy comes before channels. Who you serve and how you stand out (STP) decides what to sell and where (4 Ps), which decides what to do at each funnel stage (RACE). Touchpoints, brand goals and the roadmap then turn that into a calendar. Skipping to channels first is how plans end up as a list of posts.
+Why this order: strategy comes before channels. Who you serve and how you stand out (STP) decides what to sell and where (4 Ps), which decides what to do at each funnel stage (RACE). Touchpoints, brand goals, budget and the roadmap then turn that into a calendar. Skipping to channels first is how plans end up as a list of posts.
 
 ## Workflow
 
-1. **Collect the facts.** Business, product, prices, current customers, current results, budget, team, time frame. Where a number is missing, mark it "to measure" rather than inventing a benchmark.
+1. **Collect the facts.** Business, product, prices, current customers, current results, budget, team, time frame. Where a number is missing, mark it "to measure" rather than inventing a benchmark. If there is no tracking, install it first and use a 2-week baseline, auditing qualitatively meanwhile.
 2. **Set one measurable goal (RACE: Plan).** One outcome with a number and a date, taken from the user's own baseline ([RACE](race-framework.md)).
 3. **STP.** List 3-6 segments by need, score on size, reachability and fit, pick one primary target, write the positioning statement ([STP](stp-model.md)).
 4. **4 Ps.** Check Product, Price, Place and Promotion against the position. Flag incoherence (premium position, discount-heavy promotion). Add People, Process and Physical evidence for services ([4 Ps](4ps-marketing-mix.md)).
-5. **RACE stages with KPIs.** For Reach, Act, Convert and Engage: current state, gap, main tactics, one KPI, owner. Find the weakest stage and weight effort there.
-6. **TPB check on the key behavior.** Name the behavior the plan must cause (order, book, subscribe). Identify whether attitude, norms or control is the bottleneck and choose tactics to match ([TPB](theory-of-planned-behavior.md)).
-7. **Touchpoint map (rule of 7).** Map the touches a buyer meets from first awareness to purchase to repeat, across channels, with frequency caps. Plan a sequence, and replace "7" with the user's own measured path ([rule of 7](rule-of-7.md)).
-8. **Brand pyramid goals.** Audit the four stages, find the weakest, set a goal for it (for example salience first for a new brand). Re-measure per quarter ([brand pyramid](brand-resonance-pyramid.md)).
-9. **Pricing and offers, if relevant (decoy).** Where tiers or bundles exist, note a testable option design. Treat as an A/B hypothesis ([decoy](decoy-effect.md)).
-10. **Retention and flows (Zeigarnik).** Where there are onboarding steps, loyalty cards or cart and booking reminders, use progress and resume prompts ([Zeigarnik](zeigarnik-effect.md)).
-11. **Roadmap (Eisenhower).** Put every initiative in a quadrant. Do first the urgent and important, schedule the compounding work, delegate or drop the rest ([Eisenhower](eisenhower-matrix.md)).
-12. **Team and creators (Pygmalion).** If freelancers, creators or sales staff carry the plan, write briefs with specific, high but believable expectations and real support ([Pygmalion](pygmalion-effect.md)).
-13. **Measurement and review cadence.** Dashboard of the stage KPIs, weekly and monthly reviews, a rule for what gets cut.
-
-Not every plan needs steps 9, 10 and 12. Include them only when the business has tiers, flows or a team to manage.
+5. **RACE stages with KPIs.** For Reach, Act, Convert and Engage: current state, gap, main tactics, one KPI, owner. Weight effort to the weakest stage.
+6. **TPB check on the key behavior.** Name the behavior the plan must cause. Find whether attitude, norms or control is the bottleneck (5-10 short customer interviews, a survey or support tickets; if no data, state the assumption) and choose matching tactics. TPB is a diagnostic checklist; moving a factor may not change behavior, so test ([TPB](theory-of-planned-behavior.md)).
+7. **Touchpoint map (rule of 7).** Map the touches from first awareness to purchase to repeat, with frequency caps. Plan a sequence and replace "7" with the user's own measured path ([rule of 7](rule-of-7.md)).
+8. **Brand pyramid goals.** Audit the four stages (Identity, Meaning, Response, Relationships), find the weakest, set a goal for it. Re-measure per quarter ([brand pyramid](brand-resonance-pyramid.md)).
+9. **Offers and tiers (decoy), only if relevant.** Decoy = same or higher price than the target, worse on every attribute, better than the cheaper option on at least one. Honest options, A/B test ([decoy](decoy-effect.md)).
+10. **Flows (Zeigarnik), only if relevant.** Onboarding steps, loyalty cards, cart or booking reminders: progress and resume prompts ([Zeigarnik](zeigarnik-effect.md)).
+11. **Budget.** Split spend across RACE stages, weighted to the weakest one, plus a test reserve. Tie each line to a KPI.
+12. **Roadmap (Eisenhower).** Put every initiative in a quadrant: do first the urgent and important, schedule compounding work, delegate or drop the rest ([Eisenhower](eisenhower-matrix.md)).
+13. **Team and creators (Pygmalion), only if relevant.** If freelancers, creators or staff carry the plan, write briefs with specific, high but believable expectations plus real support. Small, contested effect; a briefing standard, not a growth lever ([Pygmalion](pygmalion-effect.md)).
+14. **Measurement and review cadence.** Stage KPI dashboard, weekly and monthly reviews, and a kill criterion, for example "pause a channel if cost per result is worse than baseline for two review cycles".
 
 ## Framework to tactics to measures
 
 | Framework | Tactics in the plan | Measure |
 |---|---|---|
 | STP | Segment scoring table, positioning statement, "who we are not for" | Share of leads and customers from the target segment |
-| 4 Ps | Four-row table: now vs proposed, consistency check | Margin, price realisation, channel mix |
-| RACE | Stage by stage activities, owners, KPIs | One KPI per stage, tracked against baseline |
-| TPB | Tactics matched to the weakest factor for the key behavior | Intention proxy (enquiries, waitlist) and actual behavior (orders) |
-| Rule of 7 | Touchpoint map, frequency caps, creative rotation | Path to conversion, wear-out signs (falling CTR, rising cost per result) |
-| Brand pyramid | Goal for the weakest stage; survey and review tracking | Aided and unaided awareness, review rating, repeat rate, referral share |
+| 4 Ps | Four-row table: now / proposed / why | Margin, price realisation, channel mix |
+| RACE | Stage activities, owners, KPIs | One KPI per stage against baseline |
+| TPB | Tactics matched to the weakest factor | Enquiries or waitlist (intention proxy) and actual orders |
+| Rule of 7 | Touchpoint map, frequency caps, creative rotation | Path to conversion; wear-out (falling CTR, rising cost per result) |
+| Brand pyramid | Goal for the weakest stage | Awareness (aided and unaided), reviews, repeat rate, referrals |
 | Decoy | Tier design hypothesis | Target-option share, revenue per customer |
-| Zeigarnik | Progress and resume prompts in key flows | Flow completion, return-to-finish rate |
-| Eisenhower | Quadrant roadmap | Share of Schedule work actually delivered |
-| Pygmalion | Briefing standards for creators and staff | Output quality, revision rounds, retention of freelancers |
+| Zeigarnik | Progress and resume prompts | Flow completion, return-to-finish rate |
+| Eisenhower | Quadrant roadmap | Share of Schedule work delivered |
+| Pygmalion | Briefing standard for creators and staff | Output quality, revision rounds |
 
 ## Output template: marketing plan outline
 
@@ -47,32 +46,49 @@ Not every plan needs steps 9, 10 and 12. Include them only when the business has
 3. Audience and position (STP) - segment table, target, positioning statement
 4. Marketing mix (4 Ps) - table: now / proposed / why
 5. Funnel plan (RACE) - table: stage | gap | tactics | KPI | owner | target
-6. Key behavior (TPB) - behavior, bottleneck factor, tactics
+6. Key behavior (TPB) - behavior, bottleneck factor, evidence or assumption, tactics
 7. Touchpoint map (rule of 7) - table: stage | touchpoint | channel | frequency cap
 8. Brand goals (pyramid) - weakest stage, goal, how measured
 9. Offers and flows (decoy, Zeigarnik) - only if relevant
-10. Roadmap (Eisenhower) - quadrant table, quarter or month view
-11. Budget split and owners
-12. Measurement - KPI dashboard, review cadence, kill criteria
-13. Risks and assumptions - including what the evidence does not guarantee
+10. Budget split - table: line | stage | amount | KPI
+11. Roadmap (Eisenhower) - quadrant table, month view
+12. Team and creators (Pygmalion) - brief standard, owners, feedback rhythm
+13. Measurement - KPI dashboard, review cadence, kill criteria
+14. Risks and assumptions - including what the evidence does not guarantee
 ```
 
 ## Worked example: neighbourhood bakery, next 90 days
 
-Business: "Corner Crumb", a bakery with a shop, 12k local social followers and online orders by direct message. The owner wants more pre-orders for weekend boxes. Baseline order count and basket size: to be pulled from the owner's notes.
+Business: "Corner Crumb", a shop with 12k local followers; orders arrive by direct message. All numbers below are fictional example data; a real plan uses the owner's own.
 
-- **Goal:** raise weekly weekend-box pre-orders from the current baseline by an agreed number by the end of the quarter.
-- **STP:** segments considered: office catering, families, nearby students, gift buyers. Target: families within a short walk who want a weekend treat. Position: "For local families, Corner Crumb is the neighbourhood bakery that makes weekend breakfast easy because boxes are baked fresh Saturday morning and ready to collect, unlike supermarket bread."
-- **4 Ps:** Product: weekend boxes in two sizes. Price: value-based, boxes cheaper than buying items singly. Place: order page plus collection at the shop. Promotion: social, a flyer in the shop bag, a local newsletter slot. Process (7 Ps): order cutoff Thursday night, clear pickup windows.
-- **RACE:** Reach is fine. Act is weak (no order link in bio). Convert is weak (orders by DM). Engage is missing. So: order page link, pinned menu posts, a simple checkout, then a reorder reminder by WhatsApp or email.
-- **TPB:** attitude and norms are good; control is the barrier (DM ordering is slow). Fix control first.
-- **Touchpoints:** a Wednesday teaser post, a Thursday cutoff reminder, a shop-counter card, a Friday email to past buyers, a review prompt after pickup.
-- **Brand pyramid:** salience is strong locally; judgments are the gap (few reviews), so ask for reviews and show them.
-- **Decoy:** boxes at small, medium and large. Test a medium priced close to large; A/B or alternate weeks, because real products make the effect unreliable.
-- **Zeigarnik:** a stamp card with two stamps already added, honouring the endowed-progress idea.
-- **Eisenhower:** Do: order link, checkout. Schedule: reviews drive, stamp card, newsletter slot. Delegate: flyer printing. Drop: daily trend videos.
-- **Pygmalion:** the part-time helper who photographs the bakes gets a clear brief and weekly feedback.
-- **Measures:** weekend-box orders, share made through the order page vs DM, review count and rating, stamp-card redemptions.
+```
+# Marketing plan: Corner Crumb, 90 days
+
+1. Snapshot: weekend-box pre-orders 20 per week, 85% by DM; budget 1,000 per month (fictional currency units); team: owner plus one part-time helper
+2. Goal: raise weekend-box pre-orders from 20 to 35 per week by day 90, with at least 70% through the order page
+3. STP: target = families within a short walk. Position: "For local families, Corner Crumb is the neighbourhood bakery that makes weekend breakfast easy because boxes are baked fresh Saturday morning and ready to collect, unlike supermarket bread."
+4. 4 Ps: Product weekend boxes (two sizes); Price value-based, box cheaper than items bought singly; Place order page plus shop pickup; Promotion social, shop-bag flyer, local newsletter slot; Process Thursday-night cutoff
+5. Funnel plan:
+```
+
+| Stage | Gap | Tactics | KPI | Owner | Target |
+|---|---|---|---|---|---|
+| Reach | Fine locally | Keep weekly posts, newsletter slot | Profile visits per week | Owner | Hold baseline |
+| Act | No order link in bio | Order link in bio, pinned menu posts | Order-page visits | Helper | Up on baseline |
+| Convert | Ordering by DM is slow | Simple checkout, Thursday cutoff | Order-page orders per week | Owner | 70% of orders |
+| Engage | No reorder prompt | Reorder reminder by WhatsApp or email, stamp card | Repeat buyers per month | Owner | Up on baseline |
+
+```
+6. Key behavior: pre-order a weekend box. Bottleneck: control (DM ordering). Assumption (no survey yet): attitude and norms are fine; to be checked with 5 short customer chats
+7. Touchpoints: Wednesday teaser, Thursday cutoff reminder, counter card, Friday email to past buyers, review prompt after pickup
+8. Brand goals: Identity strong locally; weakest = Response (judgments: few reviews). Goal: grow reviews and display them. Measure review count and rating
+9. Offers: boxes small, medium, large. Target = large. Medium priced close to large is a near-decoy (cheaper than large, so not a pure decoy); test by alternating weeks
+10. Budget: 50% order-page and checkout setup then paid local posts (Act and Convert), 20% reviews drive and counter cards (Response), 20% reorder and stamp card (Engage), 10% test reserve
+11. Roadmap: Do: order link, checkout. Schedule: reviews drive, stamp card, newsletter. Delegate: flyer printing. Drop: daily trend videos
+12. Team: helper gets a one-page brief, an example photo set and weekly feedback (small effect, a briefing standard only)
+13. Measurement: weekly dashboard of the four stage KPIs, monthly review. Kill criterion: pause a paid channel if cost per order is worse than baseline for two review cycles
+14. Risks: DM habit persists; checkout fees cut margin; decoy may not lift large share with real products, so it is only kept if the test shows it
+```
 
 ## Common mistakes
 
@@ -81,9 +97,9 @@ Business: "Corner Crumb", a bakery with a shop, 12k local social followers and o
 - Spending on Reach when Convert is the leak.
 - Treating the rule of 7 as a law, or the decoy and Zeigarnik effects as guaranteed lifts.
 - Picking every segment, so nothing is prioritised.
-- Setting brand goals at the resonance stage when awareness or proof is the weak block.
+- Brand goals at the resonance stage when awareness or proof is the weak block.
 - No owners, no review cadence, no kill criteria.
-- Ignoring the 4 Ps incoherence: premium message, discount promotion.
+- Premium message with discount promotion.
 
 ## Go deeper
 

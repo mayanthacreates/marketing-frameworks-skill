@@ -22,7 +22,7 @@ Then read only the per-framework files the playbook points to. If the job is som
 ## How to use this skill
 
 1. **Work out the job.** Is the user asking to *learn* (explain, quiz, compare) or to *do* (plan, write, audit, price)? Doing is the more common and more valuable case.
-2. **Pick the frameworks** from the routing table below. Usually one or two, rarely more. Stacking five frameworks onto one problem produces a template, not an answer.
+2. **Pick the frameworks** from the routing table below. For a single-framework question, usually one or two, rarely more. The three playbooks are different: they are a deliberate sequence, and each step is applied only if the context or the funnel leak warrants it. Stacking frameworks that do not fit produces a template, not an answer.
 3. **Read only the reference files you need** from `references/`. Each file has the definition, how to apply it step by step, a worked example, common mistakes and an evidence note.
 4. **Apply it to the user's actual situation.** Use their product, audience, prices and numbers. If key facts are missing (who the customer is, what the price points are), ask for them or state the assumption you made.
 5. **Be honest about evidence.** Some of these are robust models, some are lab findings that shrink in the field, one is folklore. Each reference file has an evidence rating; pass it on when the user is about to bet money or a strategy on it.
